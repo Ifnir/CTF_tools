@@ -95,6 +95,7 @@ It will contain even some "obvious" links, like the ASCII table and so on, becau
 - [Wayback Machine](https://archive.org/web/): **webpage archive at a certain time**
 - [Sherlock](https://github.com/sherlock-project/sherlock): hunt down **social media accounts by username**
 - [Email lookup](https://epieos.com/): tool to **retrieve information linked to an email address**
+- [Email lookup](https://www.osint.industries/): tool to **retrieve info linked to an email address** better
 
 ## Reversing ↩️
 ### Tools
